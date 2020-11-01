@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Code Brackets</string>
+    <string name="btn_run">Run Code</string>
+    <string name="btn_new">New File</string>
+    <string name="write_your_code_here">Write your code here</string>
+    <string name="back">Back</string>
+</resources>
